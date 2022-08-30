@@ -1,4 +1,4 @@
-site_name: AstroSite
+site_name: Quantum Hydrodynamics
 
 theme:
   name: 'material'
@@ -18,7 +18,7 @@ theme:
     code: Roboto Mono
   favicon: assets/favicon.png
   icon:
-    logo: material/telescope
+    logo: material/atom
 
   palette:
     - scheme: slate
@@ -55,4 +55,3 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - 'Getting Started.md'
