@@ -55,3 +55,4 @@ extra_javascript:
 
 nav:
   - Home: index.md
+  - Interference and Diffraction: double_slit.md
