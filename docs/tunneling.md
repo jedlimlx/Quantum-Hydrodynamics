@@ -12,9 +12,6 @@ the barrier that the droplet would bounce off of most of the time, but is able t
 Now we can go into the details of this phenomenon.
 
 ## Wall
-I am sure you are waiting for me to explain why does fully submerging something in the silicon oil creates a "wall"
-for the bouncing droplet.
-
 When waves travel from a deeper location to a shallower location, the waves slow down, which results in refraction and
 partial reflection of the wave. Since the droplet and the waves affect each other and the piece of material creates a 
 shallow region in the silicon oil, this results in a barrier at the "wall", which prevents the droplet from going past 
