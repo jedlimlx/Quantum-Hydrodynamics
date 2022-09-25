@@ -45,12 +45,20 @@ may not have fully decayed when the droplet next contacts the surface. This will
 to the droplet. Hence, the droplet could take unpredictable trajectories on the liquid bath. This phenomenon is known as
 "path-memory". As expected, this effect is more prominent when the liquid bath is vibrated more.
 
-## Is this chaos?
+## Ị̷̧̲́̌̒͆̀s̷͚̥͓̑͂̈́̕͜͠ ̸͖̮̥͈̊͆ͅt̴͔̥́̕h̷̘̔͗͗ỉ̴͜ṣ̴̠̘̩̭̎̂ ̶̱̲̘̔̎̄̋̑c̷̢̧̞̱̀͜h̶͙̎̌̓ạ̴̫̉̏o̷̧̥̳̩̩̅̀s̷͚̮̩͊͆̓̋?̴̤̈́̅͌̓̊ 🤔
 
+Now, let's look at the 3 different types of motion of the droplet - bouncing, walking and chaos. View the videos
+below by clicking on the tabs.
 
+*insert videos, @luc thanks*
 
+Now, you may wonder - if the system is symmetric, why does the drop walk in some cases, rather than always bouncing
+on the same spot.
 
-## Further Insights
+Well, this is caused by the system becoming more unstable as the bath is vibrated more vigorously. These instabilities
+arise from the transient waves created by the droplet taking longer to decay as explained previously. 
+As a result, the bouncing of the droplet becomes unstable and the droplet will begin to "walk".
 
-
-
+When the bath is vibrated even more vigorously, the droplet begins to walk not in a straight line but move around in an
+unpredictable matter. We call this phase of the droplet's motion, "chaotic". This means that its motion is sensitive to
+initial conditions. However, note that the droplet's motion is still completely deterministic!
