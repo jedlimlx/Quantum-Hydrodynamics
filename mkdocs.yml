@@ -47,6 +47,10 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.arithmatex:
       generic: true
+  - attr_list
+  - md_in_html
+  - pymdownx.tabbed:
+      alternate_style: true
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -56,5 +60,9 @@ extra_javascript:
 nav:
   - Home: index.md
   - introduction.md
+  - Tunneling: tunneling.md
   - Interference and Diffraction: double_slit.md
   - Pilot Waves: pilot_wave.md
+  - quiz.md
+  - distribution.md
+  - references.md
