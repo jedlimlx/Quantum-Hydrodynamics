@@ -11,9 +11,12 @@
 
 === "Solution"
 
-    The answer is A.
+    The answer is **A**. 
 
-Hello.
+    Its not B because the droplet and liquid are not charged. Its not C because the liquid surface and droplet never come into contact. 
+    If they did, the droplet and liquid surface will merge.
+
+<br>
 
 === "Interpretations of Quantum Mechanics"
 
@@ -21,7 +24,8 @@ Hello.
 
     1. When an electron is observed, its wavefunction will collapse to a point. 
     The position of this point is random and the probability of different locations is defined by the wavefunction. <br>
-    2. <br> <br>
+    2. The universe is non-deterministic. <br> 
+    3. Each particle has a corressponding pilot wave that guides its motion. <br> <br>
 
     A. 1, 2 and 3 <br>
     B. 1 and 2 <br>
@@ -31,4 +35,6 @@ Hello.
 
 === "Solution"
 
-    The answer is A.
+    The answer is **B**. 
+
+    1 and 2 are correct. 3 is part of pilot-wave theory.
