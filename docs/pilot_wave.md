@@ -5,7 +5,7 @@ let's talk a bit about interpretations of quantum mechanics.
 
 ## Interpretations of Quantum Mechanics
 
-While the mathematics and equations of quantum mechanics have been rigourously tested,
+While the mathematics and equations of quantum mechanics have been rigorously tested,
 there is no consensus on how abstract concepts such as the quantum wavefunction translate into what is actually occuring on the quantum scale. 
 This has lead to the creation of many conflicting interpretations of quantum mechanics that describes the equations governing the
 quantum world corresponds to what is actually happening.
