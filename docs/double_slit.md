@@ -6,7 +6,7 @@ is similar to the diffraction and interference observed for light or small parti
 Before we dive deeper into the phenomenon, I must clarify what "slits" mean in the 
 context of waves and walking droplets. 
 
-As discussed in *insert link when Oliver is done*, a "wall" is made by making 
+As discussed in [tunneling](tunneling.md), a "wall" is made by making 
 the fluid shallower for a small region. The waves will have a more difficult time travelling
 through this shallower region and tends to be reflected back. We can make "slits" in a
 similar way, by pasting a thin strip at the bottom of the container, but leaving a small 
