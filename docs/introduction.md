@@ -7,7 +7,7 @@ In this section, we will find out why!
 *insert some sick animation*
 
 This shows the droplet falling down onto a stationary liquid bath. When the drop falls down, the air in between the droplet and 
-liquid is pushed out. When they droplet and liquid come into contact, droplet merges with the liquid.
+liquid is pushed out. When the droplet and liquid come into contact, droplet merges with the liquid.
 
 *insert 2nd sick animation*
 
