@@ -102,40 +102,40 @@ class Bounce(Scene):
 class Interaction(Scene):
     def construct(self):
         ax = Axes(
-            x_range=[0, PI*8],
+            x_range=[-PI*4, PI*4],
             y_range=[0, 18],
             x_length=32,
             y_length=18
         )
-        surface = ax.plot(lambda x: np.cos(x) + 9, color=BLUE_D)
-        area = ax.get_area(surface, x_range=[0, PI*8], color=(BLUE_D, BLUE_D), opacity=1)
-        surface_3 = ax.plot(lambda x: np.cos(x) + 9, color=BLUE_D)
-        area_3 = ax.get_area(surface, x_range=[0, PI * 8], color=(BLUE_D, BLUE_D), opacity=1)
+        surface = ax.plot(lambda x: 1 if x == 0 else np.sin(x)/x*3 + 9, color=BLUE_D)
+        area = ax.get_area(surface, x_range=[-PI*4, PI*4], color=(BLUE_D, BLUE_D), opacity=1)
+        surface_3 = ax.plot(lambda x: 1 if x == 0 else np.sin(x)/x*3 + 9, color=BLUE_D)
+        area_3 = ax.get_area(surface, x_range=[-PI*4, PI*4], color=(BLUE_D, BLUE_D), opacity=1)
         self.add(surface, area)
-        surface_2 = ax.plot(lambda x: np.cos(x) + 9.5, color=BLUE_D)
-        area_2 = ax.get_area(surface_2, x_range=[0, PI * 8], color=(BLUE_D, BLUE_D), opacity=1)
-        air_ellipse = Ellipse(height=2, width=3, color=BLACK)
-        air_ellipse.shift(13.5*LEFT + 2*UP)
+        surface_2 = ax.plot(lambda x: 1 if x == 0 else np.sin(x)/x*3 + 9.5, color=BLUE_D)
+        area_2 = ax.get_area(surface_2, x_range=[-PI*4, PI*4], color=(BLUE_D, BLUE_D), opacity=1)
+        air_ellipse = Ellipse(height=1, width=1.5, color=BLACK)
+        air_ellipse.shift(1.25*RIGHT + 3.75*UP)
         air_ellipse.set_fill(BLACK, opacity=1)
-        water_circle = Circle(radius=1, color=BLUE_D)
-        water_circle.shift(10*UP + 13.5*LEFT)
+        water_circle = Circle(radius=0.5, color=BLUE_D)
+        water_circle.shift(10*UP + 1*RIGHT)
         water_circle.set_fill(BLUE_D, opacity=1)
-        water_circle_2 = Circle(radius=1, color=BLUE_D)
+        water_circle_2 = Circle(radius=0.5, color=BLUE_D)
         water_circle_2.set_fill(BLUE_D, opacity=1)
-        water_circle_2.shift(12*LEFT + 1.5*UP)
-        water_ellipse = Ellipse(height=1.5, width=2, color=BLUE_D)
-        water_ellipse.shift(LEFT*13.5 + 0.5*UP)
+        water_circle_2.shift(3*RIGHT + 5.5*UP)
+        water_ellipse = Ellipse(height=0.75, width=1, color=BLUE_D)
+        water_ellipse.shift(RIGHT*1.25 + 3.25*UP)
         water_ellipse.set_fill(BLUE_D, opacity=1)
-        air_path = Line([-13.5, 2, 0], [-13.5, 0.5, 0])
-        air_path_2 = Line([-13.5, 0.5, 0], [-12, 2, 0])
+        air_path = Line([1.25, 5.75, 0], [1.25, 3.25, 0])
+        air_path_2 = Line([1.25, 3.25, 0], [3, 5, 0])
         water_ellipse.rotate(-PI/6)
         air_ellipse.rotate(-PI/6)
         air_ellipse.z_index = 1
         water_ellipse.z_index = 2
         water_circle.z_index = 2
-        force_arrow = Arrow(start = [-13.5, 0.5, 0], end=[-12, 2, 0])
+        force_arrow = Arrow(start = [1.25, 3.25, 0], end=[3, 5, 0])
         force_text = Text("Force by air on droplet")
-        force_text.shift(11.5 * LEFT + 2.5 * UP)
+        force_text.shift(3.5 * RIGHT + 5.5 * UP)
         force_arrow.z_index = 3
         self.add(water_circle)
         self.play(Transform(surface, surface_2), Transform(area, area_2), MoveAlongPath(air_ellipse, air_path),
