@@ -20,8 +20,8 @@ Faraday wavelength.
 This is very similar to electrons orbiting around an atomic nucleus. In 1913, Neils Bohr 
 made the claim that electrons can only orbit at a fixed distance away from the nucleus, 
 which are now known as quantum shells. At the time, this was basically a wild guess
-without much evidence. However, Erwin Schrodinger later proved this by modelling the 
-electrons as waves (using the famous Schrodinger's equation). This wave-particle 
+without much evidence. However, Erwin Schrödinger later proved this by modelling the 
+electrons as waves (using the famous Schrödinger's equation). This wave-particle 
 interaction is very similar to the wave particle interaction for the bouncing droplets 
 and is why these wildly different objects exhibit very similar behaviour.
 
