@@ -1,15 +1,27 @@
 # Quantum Tunnelling
 In quantum mechanics, quantum tunnelling refers to a particle that tunnels through an energy barrier completely at 
-random. Normally, in classical mechanics, which describes the physics in our daily lives, a ball can not roll past a
-hill without having enough energy to reach the tip of the hill. We call the hill an energy barrier as the ball needs to 
-possess a certain amount of energy to cross it. In quantum mechanics, when we shoot an electron at a potential barrier, 
-which acts as an energy barrier for the electron, we would expect the electron to be stopped at the potential barrier. 
-Indeed, that is what is observed most of the time when such experiments are done. However, due to the quirks of quantum
-mechanics, sometimes we can see that the electron that is supposed to be stopped at the potential barrier, on the other
-side of the potential barrier. Which means that the electron had just managed to go straight through the potential 
-barrier. This is something that would have been impossible in classical mechanics but has a small but finite probability 
-to happen in quantum mechanics. Thus, this is named the quantum tunnelling phenomenon in quantum mechanics, signifying 
-that the electron had "dug" a "tunnel" to go past the energy barrier.
+random. 
+
+*insert video of ball failing to roll over a hill*
+
+Looking at the above animation, we can see that normally, in classical mechanics, which describes the physics in our 
+daily lives, a ball can not roll past a hill without having enough energy to reach the tip of the hill. We call the hill
+an energy barrier as the ball needs to possess a certain amount of energy to cross it. 
+
+*insert same video above with different labels*
+
+Looking at another animation above, we can see in quantum mechanics, when we shoot an electron at a potential barrier, 
+which acts as an energy barrier for the electron, we would expect the electron to be stopped by the potential barrier. 
+Indeed, that is what is observed most of the time when such experiments are done.
+
+*insert video of electron going through potential barrier*
+
+However, if we take a look at the animation above, we can see that due to the quirks of quantum mechanics, sometimes the 
+electron that is supposed to be stopped at the potential barrier, on the other side of the potential barrier. 
+Which means that the electron had just managed to go straight through the potential barrier. This is something that 
+would have been impossible in classical mechanics but has a small but finite probability to happen in quantum mechanics. 
+Thus, this is named the quantum tunnelling phenomenon in quantum mechanics, signifying that the electron had "dug" a 
+"tunnel" to go past the energy barrier.
 
 Interestingly, the droplets can exhibit behaviours almost identical to regular quantum tunneling. As it turns out, by 
 fully submerging a piece of material (which can be plastic, metal, or anything that is solid) into the small pool of 
@@ -33,8 +45,11 @@ influences the droplet, often the droplet would be bounced back at the location 
 kinetic energy, thus creating a "wall" for the droplet.
 
 ## Similarity to Tunneling
-So how is quantum tunneling related to this? Experiments done by Eddi and his team have shown that there are random
-occasions where the droplet actually can go over the "wall". This is similar to a quantum particle undergoing tunneling.
-The probability of a droplet going over the wall has been found to be decrease exponentially with increasing width of 
-the "wall". This is exactly analogous to a quantum particle undergoing tunneling. The probability of the particle
-passing the energy barrier also decreases exponentially with increasing width of the energy barrier.
+So how is this phenomenon almost identical to quantum tunneling? Experiments have been done and the results have show 
+that the probability of a droplet going over a wall to be decreasing exponentially with increasing width of the wall, 
+which translates to increasing width of the energy barrier. This is exactly the same as the probability of an electron 
+passing through a potential barrier, which also decreases exponentially with increasing width of the potential barrier, 
+which is also the energy barrier. Another similarity is that there has been no pattern observed in the conditions 
+required for the droplet to pass over the "wall" if it does not have the kinetic energy required for it to go over the 
+wall, it is completely probabilistic. The two main characteristics of quantum tunneling are both observed in this 
+phenomenon, thus we can conclude that this phenomenon is almost identical to quantum tunneling.
