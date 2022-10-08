@@ -36,5 +36,3 @@ Having drawn these parallels to pilot wave theory, I'm sure it is clear why the 
 is analogous to some quantum systems. The wave excited by the droplet is effectively the wavefunction in pilot-wave theory which
 guides the path of the droplet. It interacts with surrounding objects such as the slits used in diffraction and double-slit interference, hence
 allowing the positions of many droplets to show interference patterns.
-
-Help how do I conclude?

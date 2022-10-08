@@ -17,7 +17,8 @@ slit, or an arrangement of slits.
 
 ## Diffraction
 
-*insert video of droplet diffracting*
+![img.png](img.png)
+> Taken from J. W. M. Bush, “Pilot-wave hydrodynamics,” Annu. Rev. Fluid Mech. 47, 269–292 (2015).
 
 When a droplet "walks" towards a small slit, it doesn't just pass straight through.
 After it passes through the slit, its direction will change in a seemingly random manner.
@@ -25,7 +26,8 @@ When scientists observed the path of a hundred droplets that walk through the sl
 found that the final direction of the droplet is not actually random, it's actually similar
 to the diffraction pattern observed for light!
 
-*insert picture of diffraction graph*
+![img_1.png](img_1.png)
+> Taken from J. W. M. Bush, “Pilot-wave hydrodynamics,” Annu. Rev. Fluid Mech. 47, 269–292 (2015).
 
 Diffraction is observed when waves pass through a small slit. The wave will
 tend to spread out after passing through the slit, following a certain 
@@ -33,7 +35,8 @@ pattern. It is commonly demonstrated in schools using light
 rays shot through a thin slit, where the light rays will spread out
 and form a unique pattern on a screen, known as a diffraction pattern.
 
-*insert image of light diffraction pattern*
+![img_3.png](img_3.png)
+> Taken from https://www.a-levelphysicstutor.com/wav-light-diffr.php
 
 Early on, diffraction was only observed with waves, such as light
 and sound. However, in 1924, Louis de Broglie made the bold claim 
@@ -61,14 +64,13 @@ certain directions to be favored.
 
 ## Interference
 
-*I don't think there is a video on double slit, but if there is it goes here*
-
 An even more interesting phenomenon occurs when the droplets walk through one of the slits
 in a double slit setup. Again, the droplet gets diffracted as it passes through the slit,
 but the probability distribution of the final directions the droplet travels in is different
 from when there is only one slit!
 
-*insert graph here*
+![img_2.png](img_2.png)
+> Taken from J. W. M. Bush, “Pilot-wave hydrodynamics,” Annu. Rev. Fluid Mech. 47, 269–292 (2015).
 
 As it turns out, the probability distribution is more similar to the double slit interference
 pattern for light waves. The double slit experiment is also a common demonstration in schools,

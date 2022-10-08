@@ -6,7 +6,7 @@ Depending on the separation between the droplets and their bouncing phase, they 
 attract or repel. This long range interaction between particles can lead to some very 
 interesting effects, such as quantized orbits and even the formation of crystal lattices!
 
-*oi @oliver make a video explaining this (droplet landing on wave)*
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Le4siCZIYcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Orbits
 *insert video here maybe*
@@ -27,7 +27,7 @@ and is why these wildly different objects exhibit very similar behaviour.
 
 ## Crystal Structures
 
-*insert image*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-2yYgfaU6Ik?start=75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 When many droplets are placed into the same bath, they can self-organize into regular 
 repeating shapes, similar to crystal lattices. The interactions between droplets can be 

@@ -50,7 +50,18 @@ to the droplet. Hence, the droplet could take unpredictable trajectories on the 
 Now, let's look at the 3 different types of motion of the droplet - bouncing, walking and chaos. View the videos
 below by clicking on the tabs.
 
-*insert videos, @luc thanks*
+
+=== "Bouncing"
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/nmC0ygr08tE?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+=== "Walking"
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/nmC0ygr08tE?start=11" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+=== "Chaotic Motion"
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/nmC0ygr08tE?start=67" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Now, you may wonder - if the system is symmetric, why does the drop walk in some cases, rather than always bouncing
 on the same spot.
