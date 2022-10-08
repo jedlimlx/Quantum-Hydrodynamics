@@ -9,7 +9,8 @@ interesting effects, such as quantized orbits and even the formation of crystal 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Le4siCZIYcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Orbits
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmC0ygr08tE?start=49&end=52" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MXbb4fmxfFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Video above taken from Supplementary Material of J. W. M. Bush, “Pilot-wave hydrodynamics,” Annu. Rev. Fluid Mech. 47, 269–292 (2015).
 
 When the droplets attract, the attractive force can act as the centripetal force, and
 allow the droplets to orbit each other in a way that is very similar to a binary star
@@ -27,7 +28,8 @@ and is why these wildly different objects exhibit very similar behaviour.
 
 ## Crystal Structures
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-2yYgfaU6Ik?start=75&end=80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/127MqX_kgW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Taken from Saenz, Pedro & Pucci, Giuseppe & Goujon, Alexis & Cristea-Platon, Tudor & Dunkel, Jörn & Bush, John. (2018). Spin lattices of walking droplets. Physical Review Fluids. 3. 10.1103/PhysRevFluids.3.100508.
 
 When many droplets are placed into the same bath, they can self-organize into regular 
 repeating shapes, similar to crystal lattices. The interactions between droplets can be 
@@ -38,3 +40,7 @@ repulsive and pushes them apart. This causes the atoms to remain fixed in positi
 allows for the formation of lattice structures. Similarly, the interactions between 
 bouncing droplets also alternate between attractive and repulsive, fixing the droplets
 in place.
+
+## Recap
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7xn_zsmyaic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

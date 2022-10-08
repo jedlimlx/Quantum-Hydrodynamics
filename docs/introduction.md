@@ -25,6 +25,7 @@ on the water surface. You may have seen this phenomenon before with water in a m
 standing waves on the water surface. A video of these waves are shown below.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-3jsevcyP9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Video taken from https://www.youtube.com/watch?v=-3jsevcyP9g
 
 Let's now look at the waves that are formed on the liquid surface when the droplet impacts it. 
 When the droplet impacts the surface of the liquid, the same force that pushes the droplet upwards, 
@@ -50,18 +51,18 @@ to the droplet. Hence, the droplet could take unpredictable trajectories on the 
 Now, let's look at the 3 different types of motion of the droplet - bouncing, walking and chaos. View the videos
 below by clicking on the tabs.
 
-
 === "Bouncing"
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/nmC0ygr08tE?start=4&end=8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5T9RXp1NkbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 === "Walking"
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/nmC0ygr08tE?start=11&end=15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9BPUQbmT_B0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 === "Chaotic Motion"
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/nmC0ygr08tE?start=67&end=72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com//embed/4SDc78LO8JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Videos above taken from Supplementary Material of J. W. M. Bush, “Pilot-wave hydrodynamics,” Annu. Rev. Fluid Mech. 47, 269–292 (2015).
 
 Now, you may wonder - if the system is symmetric, why does the drop walk in some cases, rather than always bouncing
 on the same spot.
@@ -76,3 +77,8 @@ is no longer directly vertical. Thus, the bouncing of the droplet becomes unstab
 When the bath is vibrated even more vigorously, the droplet begins to walk not in a straight line but move around in an
 unpredictable matter. We call this phase of the droplet's motion, "chaotic". This means that its motion is sensitive to
 initial conditions. However, note that the droplet's motion is still completely deterministic!
+
+
+## Recap
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RJufa9ysj_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -17,7 +17,7 @@ slit, or an arrangement of slits.
 
 ## Diffraction
 
-![img.png](img.png)
+![img.png](img.png){ width="350" }
 > Taken from J. W. M. Bush, “Pilot-wave hydrodynamics,” Annu. Rev. Fluid Mech. 47, 269–292 (2015).
 
 When a droplet "walks" towards a small slit, it doesn't just pass straight through.
@@ -26,7 +26,7 @@ When scientists observed the path of a hundred droplets that walk through the sl
 found that the final direction of the droplet is not actually random, it's actually similar
 to the diffraction pattern observed for light!
 
-![img_1.png](img_1.png)
+![img_1.png](img_1.png){ width="350" }
 > Taken from J. W. M. Bush, “Pilot-wave hydrodynamics,” Annu. Rev. Fluid Mech. 47, 269–292 (2015).
 
 Diffraction is observed when waves pass through a small slit. The wave will
@@ -35,7 +35,7 @@ pattern. It is commonly demonstrated in schools using light
 rays shot through a thin slit, where the light rays will spread out
 and form a unique pattern on a screen, known as a diffraction pattern.
 
-![img_3.png](img_3.png)
+![img_3.png](img_3.png){ width="350" }
 > Taken from https://www.a-levelphysicstutor.com/wav-light-diffr.php
 
 Early on, diffraction was only observed with waves, such as light
@@ -69,7 +69,7 @@ in a double slit setup. Again, the droplet gets diffracted as it passes through 
 but the probability distribution of the final directions the droplet travels in is different
 from when there is only one slit!
 
-![img_2.png](img_2.png)
+![img_2.png](img_2.png){ width="350" }
 > Taken from J. W. M. Bush, “Pilot-wave hydrodynamics,” Annu. Rev. Fluid Mech. 47, 269–292 (2015).
 
 As it turns out, the probability distribution is more similar to the double slit interference
@@ -86,3 +86,7 @@ When scientists observed the behaviour of the waves as the particle passed throu
 they observed that even though the particle only passes through one slit, its guiding wave
 actually passes through both slits. The waves from both slits will then interfere and guide
 the particle to regions of constructive interference.
+
+## Recap
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sLF7V05pW4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
