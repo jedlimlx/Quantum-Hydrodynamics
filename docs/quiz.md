@@ -38,3 +38,46 @@
     The answer is **B**. 
 
     1 and 2 are correct. 3 is part of pilot-wave theory.
+
+
+<br.
+
+
+=== "Interference"
+
+    In a double slit experiment, when we use a particle counter
+    to observe the particles passing through one of the slits, what happens
+    to the pattern observed on the screen (for both electrons and walking droplets)?
+
+    A. The pattern remains the same for both electrons and walking droplets.
+    B. The pattern is destroyed for walking droplets but remains the same for electrons.
+    C. The pattern is destroyed for electrons but remains the same for walking droplets.
+    D. The pattern is destroyed for both electrons and walking droplets.
+
+=== "Solution"
+
+    The answer is **C**
+    
+    When we observe the electron, we are forcing it to pass
+    through one of the slits, meaning that it cannot pass through
+    both slits "simultaneously". Thus, it cannot interfere with itself
+    and the interference pattern is destroyed. However, this does not
+    apply to walking droplets since the pilot waves pass through both 
+    slits rather than the particle.
+
+
+=== "Orbits"
+
+    Walking droplets and electrons both have discrete orbital radii,
+    but the reasons are very different, what is the difference?
+
+    A. Electrons are much smaller than walking droplets.
+    B. Electrons have to be treated as quantum, while the motion of droplets are in the classical regime.
+    C. Electrons occupying discrete orbital radii is a property of the electron itself, while the droplets occupy discrete oribtal radii because the force between droplets is only atractive for certain distances.
+    D. All of the above.
+    
+
+=== "Solution"
+
+    The answer is **D**
+    A causes B, which causes C. Thus, all are true.
