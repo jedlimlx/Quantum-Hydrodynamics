@@ -216,3 +216,133 @@ class Tunneling(Scene):
         self.wait(1)
         self.play(FadeOut(tunnel_text), FadeOut(tunnel_arrow))
         self.play(MoveAlongPath(electron2, downPath), MoveAlongPath(electron_text2, downPath))
+
+class Wall(Scene):
+    def construct(self):
+        # hill = Polygon([-16, -18, 0], [0, 0, 0], [16, -18, 0], fill_color=BLUE_E, fill_opacity=1,
+        #                stroke_color=BLUE_E).round_corners()
+        # ball = Circle(radius=1, stroke_color=BLUE_C, fill_color=BLUE_C, fill_opacity=1)
+        # upPath = Line([-8, -9 + (1 ** 2 + 1.125 ** 2) ** 0.5, 0], [-4, -4.5 + (1 ** 2 + 1.125 ** 2) ** 0.5, 0])
+        # downPath = Line([-4, -4.5 + (1 ** 2 + 1.125 ** 2) ** 0.5, 0], [-8, -9 + (1 ** 2 + 1.125 ** 2) ** 0.5, 0])
+        # hill_text = Text("Hill")
+        # ball_text = Text("Ball")
+        # energy_text = Text("Insufficient energy to go over hill")
+        # energy_arrow = Arrow(start=[-4, 1, 0], end=[-4, -3.5 + (1 ** 2 + 1.125 ** 2) ** 0.5, 0])
+        # energy_text.shift(4 * LEFT + 1.5 * UP)
+        # hill_text.shift(8 * DOWN)
+        # ball_text.shift(8 * LEFT + (9 - (1 ** 2 + 1.125 ** 2) ** 0.5) * DOWN)
+        # ball.shift(8 * LEFT + (9 - (1 ** 2 + 1.125 ** 2) ** 0.5) * DOWN)
+        # self.add(hill)
+        # self.wait(12)
+        # self.add(hill_text)
+        # self.play(FadeIn(ball), FadeIn(ball_text))
+        # self.play(MoveAlongPath(ball, upPath), MoveAlongPath(ball_text, upPath))
+        # self.play(FadeIn(energy_arrow), FadeIn(energy_text))
+        # self.wait(4)
+        # self.play(FadeOut(energy_text), FadeOut(energy_arrow))
+        # self.play(MoveAlongPath(ball, downPath), MoveAlongPath(ball_text, downPath))
+        # self.wait(3)
+        # self.play(FadeOut(hill),FadeOut(hill_text), FadeOut(ball_text), FadeOut(ball))
+        # barrier = Polygon([-16, -18, 0], [0, 0, 0], [16, -18, 0], fill_color=BLUE_E, fill_opacity=1,
+        #                   stroke_color=BLUE_E).round_corners()
+        # electron = Circle(radius=1, stroke_color=BLUE_C, fill_color=BLUE_C, fill_opacity=1)
+        # electron2 = Circle(radius=1, stroke_color=BLUE_C, fill_color=BLUE_C, fill_opacity=1)
+        # upPath = Line([-8, -9 + (1 ** 2 + 1.125 ** 2) ** 0.5, 0], [-4, -4.5 + (1 ** 2 + 1.125 ** 2) ** 0.5, 0])
+        # downPath = Line([4, -4.5 + (1 ** 2 + 1.125 ** 2) ** 0.5, 0], [8, -9 + (1 ** 2 + 1.125 ** 2) ** 0.5, 0])
+        # barrier_text = Text("Potential Barrier")
+        # electron_text = Text("Electron", font_size=32)
+        # electron_text2 = Text("Electron", font_size=32)
+        # tunnel_text = Text("Tunnels through the potential barrier")
+        # tunnel_arrow = Arrow(start=[4, 1, 0], end=[4, -3.5 + (1 ** 2 + 1.125 ** 2) ** 0.5, 0])
+        # tunnel_text.shift(4 * RIGHT + 1.5 * UP)
+        # barrier_text.shift(8 * DOWN)
+        # electron_text.shift(8 * LEFT + (9 - (1 ** 2 + 1.125 ** 2) ** 0.5) * DOWN)
+        # electron.shift(8 * LEFT + (9 - (1 ** 2 + 1.125 ** 2) ** 0.5) * DOWN)
+        # electron2.shift(4 * RIGHT + (-4.5 + (1 ** 2 + 1.125 ** 2) ** 0.5) * UP)
+        # electron_text2.shift(4 * RIGHT + (-4.5 + (1 ** 2 + 1.125 ** 2) ** 0.5) * UP)
+        # self.add(barrier, barrier_text)
+        # self.play(FadeIn(electron), FadeIn(electron_text))
+        # self.play(MoveAlongPath(electron, upPath), MoveAlongPath(electron_text, upPath))
+        # self.play(FadeOut(electron_text), FadeOut(electron), FadeIn(electron2), FadeIn(electron_text2))
+        # self.play(FadeIn(tunnel_arrow), FadeIn(tunnel_text))
+        # self.wait(1)
+        # self.play(FadeOut(tunnel_text), FadeOut(tunnel_arrow))
+        # self.play(MoveAlongPath(electron2, downPath), MoveAlongPath(electron_text2, downPath))
+        # self.wait(4)
+        # self.play(FadeOut(barrier), FadeOut(barrier_text), FadeOut(electron_text2), FadeOut(electron2))
+        ax = Axes(
+            x_range=[-PI/2, 11*PI/2],
+            y_range=[-9, 9],
+            x_length=32,
+            y_length=18
+        )
+        path = ax.plot(lambda x:np.sin(x)+1.5, x_range=[PI/2, 3*PI/2])
+        path2 = ax.plot(lambda x: np.sin(x) + 1.5, x_range=[3 * PI / 2, 5 * PI / 2])
+        path3 = ax.plot(lambda x: np.sin(2*x-PI/2) + 1.5, x_range=[5 * PI / 2, 6 * PI / 2])
+        path4 = ParametricFunction(lambda x: np.array((-x - 4*PI/2, np.sin(2*-x-PI/2) + 1.5, 0)),
+                                   t_range=[-6 * PI / 2, -5 * PI / 2])
+        path5 = ParametricFunction(lambda x: np.array((-x - 4*PI/2, np.sin(-x) + 1.5, 0)),
+                                   t_range=[-5 * PI / 2, -3 * PI / 2])
+        path6 = ParametricFunction(lambda x: np.array((-x - 4*PI/2, np.sin(-x) + 1.5, 0)),
+                                   t_range=[-3 * PI / 2, -PI / 2])
+        path7 = ParametricFunction(lambda x: np.array((-x - 4 * PI / 2, np.sin(-x) + 1.5, 0)),
+                                   t_range=[-PI / 2, PI / 2])
+        path8 = ParametricFunction(lambda x: np.array((-x - 4 * PI / 2, np.sin(-x) + 1.5, 0)),
+                                   t_range=[PI / 2, 3 * PI / 2])
+        path9 = ax.plot(lambda x:np.sin(x)+1.5, x_range=[5*PI/2, 7*PI/2])
+        path10 = ax.plot(lambda x: np.sin(x) + 1.5, x_range=[7 * PI / 2, 9 * PI / 2])
+        path11 = ax.plot(lambda x:np.sin(x)+1.5, x_range=[9*PI/2, 11*PI/2])
+        path12 = ax.plot(lambda x: np.sin(x) + 1.5, x_range=[11 * PI / 2, 13 * PI / 2])
+        wall = Rectangle(width=2, height=6, color=WHITE, fill_color=WHITE, fill_opacity=1)
+        wall_text = Text("Wall", color=BLACK)
+        wall.shift(6*DOWN + 7*RIGHT)
+        wall_text.shift(6*DOWN + 7*RIGHT)
+        water_ellipse = Ellipse(width = 4.0, height = 3.5, color=BLUE_D)
+        water_ellipse.set_fill(BLUE_D, opacity=1)
+        air_ellipse = Ellipse(width = 5.0, height= 4.0, color=BLACK)
+        air_ellipse.set_fill(BLACK, opacity=1)
+        rectangle = Rectangle(height=20.0, width=32.0, color=BLUE_D)
+        rectangle.set_fill(BLUE_D, opacity=1)
+        droplet_text = Text("Droplet", color=WHITE)
+        water_ellipse.z_index = 2
+        air_ellipse.z_index = 1
+        rectangle.z_index = 0
+        wall.z_index = 1
+        wall_text.z_index = 3
+        droplet_text.z_index = 3
+        upPath = Line([0, -10, 0], [0, -9.5, 0])
+        downPath = Line([0, -9.5, 0], [0, -10, 0])
+        self.add(wall, wall_text)
+        self.play(Create(droplet_text))
+        self.play(MoveAlongPath(water_ellipse, path), MoveAlongPath(air_ellipse, path), MoveAlongPath(droplet_text, path),
+                  MoveAlongPath(rectangle, upPath), rate_func=linear)
+        self.play(MoveAlongPath(water_ellipse, path2), MoveAlongPath(air_ellipse, path2), MoveAlongPath(droplet_text, path2),
+                  MoveAlongPath(rectangle, downPath), rate_func=linear)
+        self.play(MoveAlongPath(water_ellipse, path3), MoveAlongPath(air_ellipse, path3), MoveAlongPath(droplet_text, path3),
+                  MoveAlongPath(rectangle, upPath), rate_func=linear)
+        self.play(MoveAlongPath(water_ellipse, path4), MoveAlongPath(air_ellipse, path4), MoveAlongPath(droplet_text, path4),
+                  MoveAlongPath(rectangle, downPath), rate_func=linear)
+        self.play(MoveAlongPath(water_ellipse, path5), MoveAlongPath(air_ellipse, path5), MoveAlongPath(droplet_text, path5),
+                  MoveAlongPath(rectangle, upPath), rate_func=linear)
+        self.play(MoveAlongPath(water_ellipse, path6), MoveAlongPath(air_ellipse, path6), MoveAlongPath(droplet_text, path6),
+                  MoveAlongPath(rectangle, downPath), rate_func=linear)
+        self.play(MoveAlongPath(water_ellipse, path7), MoveAlongPath(air_ellipse, path7), MoveAlongPath(droplet_text, path7),
+                  MoveAlongPath(rectangle, upPath), rate_func=linear)
+        self.play(MoveAlongPath(water_ellipse, path8), MoveAlongPath(air_ellipse, path8), MoveAlongPath(droplet_text, path8),
+                  MoveAlongPath(rectangle, downPath), rate_func=linear)
+        self.play(FadeOut(water_ellipse, droplet_text))
+        self.play(MoveAlongPath(water_ellipse, path), MoveAlongPath(air_ellipse, path), MoveAlongPath(droplet_text, path),
+                  MoveAlongPath(rectangle, upPath), rate_func=linear)
+        self.play(MoveAlongPath(water_ellipse, path2), MoveAlongPath(air_ellipse, path2), MoveAlongPath(droplet_text, path2),
+                  MoveAlongPath(rectangle, downPath), rate_func=linear)
+        self.play(MoveAlongPath(water_ellipse, path9), MoveAlongPath(air_ellipse, path9), MoveAlongPath(droplet_text, path9),
+                  MoveAlongPath(rectangle, upPath), rate_func=linear)
+        self.play(MoveAlongPath(water_ellipse, path10), MoveAlongPath(air_ellipse, path10), MoveAlongPath(droplet_text, path10),
+                  MoveAlongPath(rectangle, downPath), rate_func=linear)
+        self.play(MoveAlongPath(water_ellipse, path11), MoveAlongPath(air_ellipse, path11), MoveAlongPath(droplet_text, path11),
+                  MoveAlongPath(rectangle, upPath), rate_func=linear)
+        self.play(MoveAlongPath(water_ellipse, path12), MoveAlongPath(air_ellipse, path12), MoveAlongPath(droplet_text, path12),
+                  MoveAlongPath(rectangle, downPath), rate_func=linear)
+        self.wait(3)
+        self.play(Create(Tex("P(tunnel)=e^{-kw}")))
+        self.wait(3)
