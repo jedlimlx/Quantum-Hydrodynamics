@@ -9,9 +9,9 @@ interesting effects, such as quantized orbits and even the formation of crystal 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Le4siCZIYcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Orbits
-*insert video here maybe*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmC0ygr08tE?start=49&end=52" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-When the droplets attract, the attractive force can act as the centrifugal force, and
+When the droplets attract, the attractive force can act as the centripetal force, and
 allow the droplets to orbit each other in a way that is very similar to a binary star
 system. However, there is a key difference that the orbital radius of the droplets can 
 only take discrete values, which are slightly smaller than an integer multiple of the 
@@ -27,7 +27,7 @@ and is why these wildly different objects exhibit very similar behaviour.
 
 ## Crystal Structures
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-2yYgfaU6Ik?start=75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-2yYgfaU6Ik?start=75&end=80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 When many droplets are placed into the same bath, they can self-organize into regular 
 repeating shapes, similar to crystal lattices. The interactions between droplets can be 
