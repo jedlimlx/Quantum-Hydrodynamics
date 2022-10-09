@@ -54,3 +54,6 @@ which is also the energy barrier. Another similarity is that there has been no p
 required for the droplet to pass over the "wall" if it does not have the kinetic energy required for it to go over the 
 wall, it is completely probabilistic. The two main characteristics of quantum tunneling are both observed in this 
 phenomenon, thus we can conclude that this phenomenon is almost identical to quantum tunneling.
+
+## Recap
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/t0x44rPH3pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
