@@ -8,6 +8,7 @@
     pushes the droplet away from the surface <br>
     B. The droplet and liquid are electrostatically charged, resulting in a repulsive force <br>
     C. The vibrating liquid surface hits the droplet, exerting a normal force that pushes the droplet away from the surface <br>
+    D. The vibration of the liquid bath results in an asouctic radiation force that pushes the droplet away from the surface <br>
 
 === "Solution"
 
@@ -31,7 +32,6 @@
     B. 1 and 2 <br>
     C. 2 and 3 <br>
     D. Only 1 <br>
-    E. Only 2 <br>
 
 === "Solution"
 
