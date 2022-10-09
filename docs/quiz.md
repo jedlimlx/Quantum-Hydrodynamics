@@ -40,7 +40,7 @@
     1 and 2 are correct. 3 is part of pilot-wave theory.
 
 
-<br.
+<br>
 
 
 === "Interference"
@@ -81,3 +81,32 @@
 
     The answer is **D**
     A causes B, which causes C. Thus, all are true.
+
+
+=== "Wall"
+
+    What causes a wall that stops the bouncing droplet?
+    A: a physical piece of material that is fully submerged in the silicon oil
+    B: a physical piece of material that is only above the surface of the silicon oil
+    C: nothing, it just appears randomly and can not be controlled
+    D: none of the above
+
+=== "Solution"
+
+    The answer is **A**
+    The piece of material causes a decrease in depth which causes a wall that stops the droplet from passing through
+
+=== "Tunneling"
+
+    Which of the following is a result of quantum tunneling?
+    A: a ball goes through a tunnel in a hill to reach the other side
+    B: an electron that manages to go through a potential barrier it should not be able to
+    C: a ball that manages to appear on the other side of a hill it should not be able to
+    D: none of the above
+
+=== "Solution"
+
+    The answer is **B**
+    Quantum tunneling is the phenomenon of quantum particle that manages to go through an energy barrier
+    that it should not be able to normally. The electron is the quantum particle and the potential barrier
+    is the energy barrier for the electron.
