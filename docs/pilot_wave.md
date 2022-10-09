@@ -40,3 +40,4 @@ allowing the positions of many droplets to show interference patterns.
 ## Recap
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Hb_7zhd6QKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Demonstration videos in this video are taken from Supplementary Material of J. W. M. Bush, “Pilot-wave hydrodynamics,” Annu. Rev. Fluid Mech. 47, 269–292 (2015).
