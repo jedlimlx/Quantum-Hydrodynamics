@@ -47,12 +47,12 @@
 
     In a double slit experiment, when we use a particle counter (By Ziming)
     to observe the particles passing through one of the slits, what happens
-    to the pattern observed on the screen (for both electrons and walking droplets)?
+    to the pattern observed on the screen (for both electrons and walking droplets)?<br> <br>
 
-    A. The pattern remains the same for both electrons and walking droplets.
-    B. The pattern is destroyed for walking droplets but remains the same for electrons.
-    C. The pattern is destroyed for electrons but remains the same for walking droplets.
-    D. The pattern is destroyed for both electrons and walking droplets.
+    A. The pattern remains the same for both electrons and walking droplets.<br>
+    B. The pattern is destroyed for walking droplets but remains the same for electrons.<br>
+    C. The pattern is destroyed for electrons but remains the same for walking droplets.<br>
+    D. The pattern is destroyed for both electrons and walking droplets.<br> <br>
 
 === "Solution"
 
@@ -71,17 +71,18 @@
 === "Orbits"
 
     Walking droplets and electrons both have discrete orbital radii,
-    but the reasons are very different, what is the difference? (By Ziming)
+    but the reasons are very different, what is the difference?(By Ziming)<br> <br>
 
-    A. Electrons are much smaller than walking droplets.
-    B. Electrons have to be treated as quantum, while the motion of droplets are in the classical regime.
-    C. Electrons occupying discrete orbital radii is a property of the electron itself, while the droplets occupy discrete oribtal radii because the force between droplets is only atractive for certain distances.
-    D. All of the above.
+    A. Electrons are much smaller than walking droplets.<br>
+    B. Electrons have to be treated as quantum, while the motion of droplets are in the classical regime.<br>
+    C. Electrons occupying discrete orbital radii is a property of the electron itself, while the droplets occupy discrete oribtal radii because the force between droplets is only atractive for certain distances.<br>
+    D. All of the above.<br> <br>
     
 
 === "Solution"
 
     The answer is **D**
+
     A causes B, which causes C. Thus, all are true.
 
 
@@ -89,30 +90,32 @@
 
 === "Wall"
 
-    What causes a wall that stops the bouncing droplet? (By Oliver)
-    A: a physical piece of material that is fully submerged in the silicon oil
-    B: a physical piece of material that is only above the surface of the silicon oil
-    C: nothing, it just appears randomly and can not be controlled
-    D: none of the above
+    What causes a wall that stops the bouncing droplet?(By Oliver)<br> <br>
+    A: a physical piece of material that is fully submerged in the silicon oil<br>
+    B: a physical piece of material that is only above the surface of the silicon oil<br>
+    C: nothing, it just appears randomly and can not be controlled<br>
+    D: none of the above<br>
 
 === "Solution"
 
     The answer is **A**
+
     The piece of material causes a decrease in depth which causes a wall that stops the droplet from passing through
 
 <br>
 
 === "Tunneling"
 
-    Which of the following is a result of quantum tunneling? (By Oliver)
-    A: a ball goes through a tunnel in a hill to reach the other side
-    B: an electron that manages to go through a potential barrier it should not be able to
-    C: a ball that manages to appear on the other side of a hill it should not be able to
-    D: none of the above
+    Which of the following is a result of quantum tunneling?(By Oliver)<br> <br>
+    A: a ball goes through a tunnel in a hill to reach the other side<br>
+    B: an electron that manages to go through a potential barrier it should not be able to<br>
+    C: a ball that manages to appear on the other side of a hill it should not be able to<br>
+    D: none of the above<br>
 
 === "Solution"
 
     The answer is **B**
+
     Quantum tunneling is the phenomenon of quantum particle that manages to go through an energy barrier
     that it should not be able to normally. The electron is the quantum particle and the potential barrier
     is the energy barrier for the electron.
