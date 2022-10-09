@@ -20,7 +20,7 @@
 
 === "Interpretations of Quantum Mechanics"
 
-    Which of the following is part of Copenhagen interpretation of quantum mechanics? <br> <br>
+    Which of the following is part of Copenhagen interpretation of quantum mechanics? (By Jed) <br> <br>
 
     1. When an electron is observed, its wavefunction will collapse to a point. 
     The position of this point is random and the probability of different locations is defined by the wavefunction. <br>
@@ -45,7 +45,7 @@
 
 === "Interference"
 
-    In a double slit experiment, when we use a particle counter
+    In a double slit experiment, when we use a particle counter (By Ziming)
     to observe the particles passing through one of the slits, what happens
     to the pattern observed on the screen (for both electrons and walking droplets)?
 
@@ -66,10 +66,12 @@
     slits rather than the particle.
 
 
+<br>
+
 === "Orbits"
 
     Walking droplets and electrons both have discrete orbital radii,
-    but the reasons are very different, what is the difference?
+    but the reasons are very different, what is the difference? (By Ziming)
 
     A. Electrons are much smaller than walking droplets.
     B. Electrons have to be treated as quantum, while the motion of droplets are in the classical regime.
@@ -83,9 +85,11 @@
     A causes B, which causes C. Thus, all are true.
 
 
+<br>
+
 === "Wall"
 
-    What causes a wall that stops the bouncing droplet?
+    What causes a wall that stops the bouncing droplet? (By Oliver)
     A: a physical piece of material that is fully submerged in the silicon oil
     B: a physical piece of material that is only above the surface of the silicon oil
     C: nothing, it just appears randomly and can not be controlled
@@ -96,9 +100,11 @@
     The answer is **A**
     The piece of material causes a decrease in depth which causes a wall that stops the droplet from passing through
 
+<br>
+
 === "Tunneling"
 
-    Which of the following is a result of quantum tunneling?
+    Which of the following is a result of quantum tunneling? (By Oliver)
     A: a ball goes through a tunnel in a hill to reach the other side
     B: an electron that manages to go through a potential barrier it should not be able to
     C: a ball that manages to appear on the other side of a hill it should not be able to
