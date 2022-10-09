@@ -91,10 +91,10 @@
 === "Wall"
 
     What causes a wall that stops the bouncing droplet?(By Oliver)<br> <br>
-    A: a physical piece of material that is fully submerged in the silicon oil<br>
-    B: a physical piece of material that is only above the surface of the silicon oil<br>
-    C: nothing, it just appears randomly and can not be controlled<br>
-    D: none of the above<br>
+    A: A physical piece of material that is fully submerged in the silicon oil<br>
+    B: A physical piece of material that is only above the surface of the silicon oil<br>
+    C: Nothing, it just appears randomly and can not be controlled<br>
+    D: None of the above<br>
 
 === "Solution"
 
@@ -107,10 +107,10 @@
 === "Tunneling"
 
     Which of the following is a result of quantum tunneling?(By Oliver)<br> <br>
-    A: a ball goes through a tunnel in a hill to reach the other side<br>
-    B: an electron that manages to go through a potential barrier it should not be able to<br>
-    C: a ball that manages to appear on the other side of a hill it should not be able to<br>
-    D: none of the above<br>
+    A: A ball goes through a tunnel in a hill to reach the other side<br>
+    B: An electron that manages to go through a potential barrier it should not be able to<br>
+    C: A ball that manages to appear on the other side of a hill it should not be able to<br>
+    D: None of the above<br>
 
 === "Solution"
 
