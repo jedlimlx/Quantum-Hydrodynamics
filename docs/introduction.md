@@ -6,13 +6,13 @@ In this section, we will find out why!
 ## Air Layer
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1iDGEoBFkvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This shows the droplet falling down onto a stationary liquid bath. When the drop falls down, the air in between the droplet and 
-liquid is pushed out. When the droplet and liquid come into contact, droplet merges with the liquid.
+This shows the droplet falling down onto a stationary liquid bath. When the droplet falls down, the air in between the droplet and the 
+liquid is pushed out. When the droplet and the liquid come into contact, the droplet merges with the liquid.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/udifSvUusxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Now, the bath is vibrated up and down. This makes the air between the droplet and liquid escape more slowly. 
-Thus, the droplet gets closer to the liquid bath, the air between the droplet and liquid is compressed because it can't escape 
+Now, the bath is vibrated up and down. This makes the air between the droplet and the liquid escape more slowly. 
+Thus, when the droplet gets closer to the liquid bath, the air between the droplet and the liquid is compressed because it can't escape 
 and exerts a force on the droplet that stops it from getting closer.
 
 Hence, the droplet is repelled and can seemingly "bounce" on the liquid surface.
@@ -20,7 +20,7 @@ Hence, the droplet is repelled and can seemingly "bounce" on the liquid surface.
 ## Faraday Waves
 
 Before we go into the other wacky behaviour of the droplet, we need to understand the Faraday instability. It was first described by
-Micheal Faraday in 1831. It occurs when a liquid bath is vibrated up and down. When the vibration is large enough, standing waves can be seen 
+Michael Faraday in 1831. It occurs when a liquid bath is vibrated up and down. When the vibration is large enough, standing waves can be seen 
 on the water surface. You may have seen this phenomenon before with water in a metal tray. When you hit the metal tray, you might have seen 
 standing waves on the water surface. A video of these waves are shown below.
 
@@ -38,7 +38,7 @@ these waves persist on the liquid surface for a longer period of time because th
 
 ## Path Memory
 
-This explains one of intriguing aspect of this system - hysteresis. If you aren't familiar with the term, hysteresis means
+This explains one of the intriguing aspects of this system - hysteresis. If you aren't familiar with the term, hysteresis means
 that the system's current state depends on its history.
 
 In this system, the droplet's past trajectory can affect its current position since the waves generated from previous bounces
@@ -64,14 +64,14 @@ below by clicking on the tabs.
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com//embed/4SDc78LO8JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 > Videos above taken from Supplementary Material of J. W. M. Bush, “Pilot-wave hydrodynamics,” Annu. Rev. Fluid Mech. 47, 269–292 (2015).
 
-Now, you may wonder - if the system is symmetric, why does the drop walk in some cases, rather than always bouncing
-on the same spot.
+Now, you may wonder - if the system is symmetric, why does the droplet walk in some cases, rather than always bouncing
+on the same spot?
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Le4siCZIYcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Well, this is caused by the system becoming more unstable as the bath is vibrated more vigorously. These instabilities
 arise from the transient waves (shown in the uneven water surface in the video) created by the droplet 
-taking longer to decay as explained previously. As a result, the force exerted on droplet as it bounces off the water surface
+taking longer to decay as explained previously. As a result, the force exerted on the droplet as it bounces off the water surface
 is no longer directly vertical. Thus, the bouncing of the droplet becomes unstable and the droplet will begin to "walk".
 
 When the bath is vibrated even more vigorously, the droplet begins to walk not in a straight line but move around in an

@@ -14,13 +14,13 @@ interesting effects, such as quantized orbits and even the formation of crystal 
 
 When the droplets attract, the attractive force can act as the centripetal force, and
 allow the droplets to orbit each other in a way that is very similar to a binary star
-system. However, there is a key difference that the orbital radius of the droplets can 
+system. However, there is a key difference in that the orbital radius of the droplets can 
 only take discrete values, which are slightly smaller than an integer multiple of the 
 Faraday wavelength. 
 
 This is very similar to electrons orbiting around an atomic nucleus. In 1913, Neils Bohr 
 made the claim that electrons can only orbit at a fixed distance away from the nucleus, 
-which are now known as quantum shells. At the time, this was basically a wild guess
+which are now known as quantum shells. At that time, this was basically a wild guess
 without much evidence. However, Erwin Schrödinger later proved this by modelling the 
 electrons as waves (using the famous Schrödinger's equation). This wave-particle 
 interaction is very similar to the wave particle interaction for the bouncing droplets 

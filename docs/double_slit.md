@@ -3,7 +3,7 @@ Aside from quantum tunnelling, the droplets can also exhibit quantum-like effect
 passing through small slits. The behaviour of walking droplets passing through small slits
 is similar to the diffraction and interference observed for light or small particles.
 
-Before we dive deeper into the phenomenon, I must clarify what "slits" mean in the 
+Before we dive deeper into the phenomenon, we must clarify what "slits" mean in the 
 context of waves and walking droplets. 
 
 As discussed in [Quantum Tunneling](tunneling.md), a "wall" is made by making 
