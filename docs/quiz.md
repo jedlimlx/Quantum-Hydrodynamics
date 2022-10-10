@@ -45,9 +45,9 @@
 
 === "Interference"
 
-    In a double slit experiment, when we use a particle counter (By Ziming)
+    In a double slit experiment, when we use a particle counter
     to observe the particles passing through one of the slits, what happens
-    to the pattern observed on the screen (for both electrons and walking droplets)?<br> <br>
+    to the pattern observed on the screen (for both electrons and walking droplets)? (By Ziming)<br> <br>
 
     A. The pattern remains the same for both electrons and walking droplets.<br>
     B. The pattern is destroyed for walking droplets but remains the same for electrons.<br>
